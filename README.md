@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Ana 
 
 
-- 🔥 Student of Web Development Full-Stack at Let's Code
-- ⚡ Technologies: HTML, CSS, Javascript, Typescript, React JS, Node JS, MongoDB, PostgreSQL
-- 👨‍💻 I’m currently looking for an oportunity as a júnior developer
+- 👨‍💻 I’m currently working as a jr front-end developer at Arloesitech
+- 🔥 Technologies: HTML, CSS, Javascript, Typescript, React JS, Next JS, Node JS, MongoDB, PostgreSQL, express
 - 💬 How to reach me: anajuliarauber@hotmail.com
