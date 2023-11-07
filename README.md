@@ -4,7 +4,7 @@
 Hi, I'm Ana, a frontend engineer passionate about creating amazing digital experiences. 
 
 
-# Technologies & Tools
+## Technologies & Tools
 
 - ReactJS
 - Next JS
@@ -13,15 +13,15 @@ Hi, I'm Ana, a frontend engineer passionate about creating amazing digital exper
 - Redux
 
 
-# Currently Learning
+## Currently Learning
 
 I'm currently expanding my skills into backend development, exploring Node JS to complement my frontend expertise. 🚀
 
 
-# Get in touch
+## Get in touch
 
-- Email: [Your GitHub Profile](anajuliarauber@hotmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ana-julia-rauber/)
+- Email: [anajuliarauber@hotmail.com](anajuliarauber@hotmail.com)
+- LinkedIn: [https://www.linkedin.com/in/ana-julia-rauber/](https://www.linkedin.com/in/ana-julia-rauber/)
   
 
 Thanks for stopping by! Let's build something together. 💻✨
