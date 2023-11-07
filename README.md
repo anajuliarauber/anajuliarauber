@@ -1,10 +1,10 @@
-## Ana Julia Rauber - Frontend Engineer
+# Ana Julia Rauber - Frontend Engineer
 
 
 Hi, I'm Ana, a frontend engineer passionate about creating amazing digital experiences. 
 
 
-## Technologies & Tools
+# Technologies & Tools
 
 - ReactJS
 - Next JS
@@ -13,12 +13,12 @@ Hi, I'm Ana, a frontend engineer passionate about creating amazing digital exper
 - Redux
 
 
-## Currently Learning
+# Currently Learning
 
 I'm currently expanding my skills into backend development, exploring Node JS to complement my frontend expertise. 🚀
 
 
-## Get in touch
+# Get in touch
 
 - Email: [Your GitHub Profile](anajuliarauber@hotmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ana-julia-rauber/)
