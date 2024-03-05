@@ -11,6 +11,11 @@ Hi, I'm Ana, a frontend engineer passionate about creating amazing digital exper
 - TypeScript
 - HTML, CSS, JavaScript
 - Redux
+- Node JS
+- PostgreSQL
+- TypeORM
+- Prisma
+- Docker
 
 
 ## Currently Learning
