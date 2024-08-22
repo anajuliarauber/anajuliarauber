@@ -1,7 +1,7 @@
-# Ana Julia Rauber - Frontend Engineer
+# Ana Julia Rauber - Frontend Developer
 
 
-Hi, I'm Ana, a frontend engineer passionate about creating amazing digital experiences. 
+Hi, I'm Ana, a frontend developer passionate about creating amazing digital experiences. 
 
 
 ## Technologies & Tools
