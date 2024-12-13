@@ -6,21 +6,15 @@ Hi, I'm Ana, a frontend developer passionate about creating amazing digital expe
 
 ## Technologies & Tools
 
-- ReactJS
-- Next JS
-- TypeScript
-- HTML, CSS, JavaScript
-- Redux
-- Node JS
-- PostgreSQL
-- TypeORM
-- Prisma
-- Docker
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript, Redux, Styled Components, Tailwind CSS, Bootstrap, React Hook Form, React Query  
+- **Backend:** Python, Django, Node.js, PostgreSQL, TypeORM, Prisma  
+- **Tools:** Git, Docker, Jest, Storybook, Vite, Mapbox
 
+![anajuliarauber's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anajuliarauber&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Currently Learning
 
-I'm currently expanding my skills into backend development, exploring Node JS to complement my frontend expertise. 🚀
+I'm currently expanding my skills into backend development to complement my frontend expertise. 🚀
 
 
 ## Get in touch
@@ -30,3 +24,4 @@ I'm currently expanding my skills into backend development, exploring Node JS to
   
 
 Thanks for stopping by! Let's build something together. 💻✨
+
