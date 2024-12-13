@@ -1,4 +1,4 @@
-# Ana Julia Rauber - Frontend Developer
+# Ana Julia Rauber
 
 
 Hi, I'm Ana, a frontend developer passionate about creating amazing digital experiences. 
