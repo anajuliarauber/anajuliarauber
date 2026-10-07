@@ -1,27 +1,27 @@
-# Ana Julia Rauber
+# Hi, I'm Ana 👋
 
+I'm a **Frontend Software Engineer** focused on building modern web applications and user-centered products.
 
-Hi, I'm Ana, a frontend developer passionate about creating amazing digital experiences. 
+I enjoy turning complex requirements into simple, intuitive experiences and working on frontend challenges involving **architecture, data-heavy interfaces, reusable components, and product workflows**.
 
+### 🛠 Tech
 
-## Technologies & Tools
+**Core**  
+React · TypeScript · JavaScript · Next.js
 
-- **Frontend:** React.js, Next.js, JavaScript, TypeScript, Redux, Styled Components, Tailwind CSS, Bootstrap, React Hook Form, React Query  
-- **Backend:** Python, Django, Node.js, PostgreSQL, TypeORM, Prisma  
-- **Tools:** Git, Docker, Jest, Storybook, Vite, Mapbox
+**Frontend**  
+React Query · React Hook Form · Styled Components · Tailwind CSS · Storybook
 
-![anajuliarauber's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anajuliarauber&theme=dark&show_icons=true&hide_border=true&layout=compact)
+**Also experienced with**  
+Python · Node.js · SQL · Docker · Jest
 
-## Currently Learning
+### ✨ A little more about me
 
-I'm currently expanding my skills into backend development to complement my frontend expertise. 🚀
+- 🌎 Experienced working with remote and international teams
+- 🧩 I enjoy solving complex product and frontend problems
+- 🎨 I care about clean UI, usability, and maintainable code
+- 🚀 Always interested in learning and building better products
 
+### 📫 Let's connect
 
-## Get in touch
-
-- Email: [anajuliarauber@hotmail.com](anajuliarauber@hotmail.com)
-- LinkedIn: [https://www.linkedin.com/in/ana-julia-rauber/](https://www.linkedin.com/in/ana-julia-rauber/)
-  
-
-Thanks for stopping by! Let's build something together. 💻✨
-
+[LinkedIn](https://www.linkedin.com/in/ana-julia-rauber/) · [Email](mailto:anajuliarauber@hotmail.com)
