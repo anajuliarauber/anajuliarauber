@@ -24,4 +24,4 @@ Python · Node.js · SQL · Docker · Jest
 
 ### 📫 Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/ana-julia-rauber/) · [Email](mailto:anajuliarauber@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/ana-julia-rauber/) · [Email](mailto:anajurauber@gmail.com)
